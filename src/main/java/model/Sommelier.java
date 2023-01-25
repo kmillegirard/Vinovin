@@ -4,8 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Sommelier extends RegisteredUser{
-
-    private String CAmille;
+    
     private String gender;
     private String firstname;
     private String lastname;
